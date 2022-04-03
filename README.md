@@ -174,7 +174,8 @@ public class AbBucketInfo {
 ```
 
 输出结果如下：
->push_uid_world_0
+```
+push_uid_world_0
 user: 353438170   ab_bucket:    push_uid_world_0-exp6
 user: 353438171   ab_bucket:    push_uid_world_0-exp0
 user: 353438172   ab_bucket:    push_uid_world_0-exp2
@@ -184,3 +185,4 @@ user: 353438170   ab_bucket:    push_uid_world_1-exp8
 user: 353438171   ab_bucket:    push_uid_world_1-exp1
 user: 353438172   ab_bucket:    push_uid_world_1-exp1
 user: 353438173   ab_bucket:    push_uid_world_1-exp8
+```
